@@ -78,7 +78,7 @@ To get this orchestrator running, follow these steps:
    This repository contains the logic but requires the official dataset to run.
    - Clone the official HackerRank starter repository to a temporary folder:
      ```bash
-     git clone https://github.com/interviewstreet/hackerrank-orchestrate-may26.git temp_data
+     git clone git@github.com:interviewstreet/hackerrank-orchestrate-may26.git temp_data
      ```
    - Copy the `data/` and `support_tickets/` folders from `temp_data` into this repository's root.
    - You can now delete the `temp_data` folder.
