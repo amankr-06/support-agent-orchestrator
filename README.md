@@ -57,8 +57,11 @@ The core logic of the orchestrator is contained within `code/main.py`, organized
 ├── code/                           # Project dependencies and main script
 │   ├── main.py
 │   └── requirements.txt
+├── data/                           # Verified documentation corpus (Company data)
+├── support_tickets/                # Input support tickets for batch processing
 ├── .env.example                    # Template for environment variables
 ├── .gitignore                      # Git exclusion rules
+├── LICENSE                         # Project license
 └── README.md                       # Project documentation
 ```
 
