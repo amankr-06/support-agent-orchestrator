@@ -1,0 +1,7 @@
+crewai==1.14.4
+crewai-tools==1.14.4
+google-genai==1.74.0
+langchain-google-genai==4.2.2
+pandas==3.0.2
+python-dotenv==1.2.2
+pydantic==2.12.5
