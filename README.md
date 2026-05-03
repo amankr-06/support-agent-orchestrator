@@ -70,8 +70,8 @@ To get this orchestrator running, follow these steps:
 
 1. **Clone this repository**:
    ```bash
-   git clone <your-github-repo-link>
-   cd <your-repo-name>
+   git clone https://github.com/amankr-06/support-agent-orchestrator.git
+   cd support-agent-orchestrator
    ```
 
 2. **Add the Hackathon Data**:
